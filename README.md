@@ -1,6 +1,6 @@
 # TRACKING TOTAL EXPRESS
 
-Alertas em alterações no tracking da Total Express
+Alertas de alterações no tracking da Total Express. Verificação feita a cada 10 minutos.
 
 ### Instalação
 
